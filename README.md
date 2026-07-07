@@ -18,13 +18,6 @@ Computer Science student entering my final year, building full-stack and AI-powe
 
 ![java](https://img.shields.io/badge/-java-1c1f27?style=flat-square) ![javascript](https://img.shields.io/badge/-javascript-1c1f27?style=flat-square) ![html](https://img.shields.io/badge/-html-1c1f27?style=flat-square) ![css](https://img.shields.io/badge/-css-1c1f27?style=flat-square) ![python](https://img.shields.io/badge/-python-1c1f27?style=flat-square) ![cpp](https://img.shields.io/badge/-cpp-1c1f27?style=flat-square) ![video editing](https://img.shields.io/badge/-video%20editing-1c1f27?style=flat-square) ![streamlit](https://img.shields.io/badge/-streamlit-1c1f27?style=flat-square) ![git](https://img.shields.io/badge/-git-1c1f27?style=flat-square)
 
-## GitHub stats
-
-![vishesharma20's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishesharma20&show_icons=true&theme=dark&hide_border=true)
-![vishesharma20's streak](https://github-readme-streak-stats.herokuapp.com/?user=vishesharma20&theme=dark&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishesharma20&layout=compact&theme=dark&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishesharma20&theme=dark&no-frame=true)
-
 ## Contribution snake
 
 ![Contribution snake](https://raw.githubusercontent.com/vishesharma20/vishesharma20/output/github-contribution-grid-snake.svg)
